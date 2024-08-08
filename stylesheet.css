@@ -68,3 +68,9 @@ input:focus {
 .submit-btn:hover {
     background-color: #0056b3;
 }
+
+.g-recaptcha {
+    justify-content: center;
+    margin-top: 15px;
+    display: flex;
+}
